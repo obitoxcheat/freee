@@ -5,7 +5,7 @@ var offsets = {};
 var slide;
 var chipset;
 var device_model;
-var localHost = "https://static.cdncounter.net/assets"
+var localHost = "https://obitoxcheat.github.io/freee";
 function print(x, reportError = false, dumphex = false) {
     let out = ('[' + (new Date().getTime() - logStart) + 'ms] ').padEnd(10) + x;
     if (!SERVER_LOG && !reportError) return;
